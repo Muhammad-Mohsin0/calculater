@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(11, 29, 29);
+    background: rgb(142, 166, 168);
     user-select: none;
 }
 .container{
@@ -16,7 +16,7 @@ body{
 }
 .result{
     grid-column: 1 / -1;
-    background: rgb(76, 91, 103);
+    background: rgb(204, 212, 219);
     /* font-size: 180%; */
     display: flex;
     align-items: flex-end;
